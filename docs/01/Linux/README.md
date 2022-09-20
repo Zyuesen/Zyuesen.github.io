@@ -1,4 +1,4 @@
-# JavaScript
+# Linux
 
 ## 简介
 
