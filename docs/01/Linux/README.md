@@ -4,29 +4,29 @@
 
 ### 1.1 解压VirtualBox
 
-![](C:\Users\user\Desktop\github\assets\解压virtualbox.png)
+![解压VirtualBox-01](../../assets/%E8%A7%A3%E5%8E%8Bvirtualbox.png)
 
-![](C:\Users\user\Desktop\github\assets\解压virtualbox后.png)
+![解压VirtualBox-02](../../assets/%E8%A7%A3%E5%8E%8Bvirtualbox%E5%90%8E.png)
 
 ### 1.2 安装VirtualBox
 
 **跟着图片中的步骤一步步来**
 
-![](C:\Users\user\Desktop\github\assets\安装VirtualBox-01.png)
+![安装VirtualBox-01](../../assets/%E5%AE%89%E8%A3%85VirtualBox-01.png)
 
-![安装VirtualBox-02](C:\Users\user\Desktop\github\assets\安装VirtualBox-02.png)
+![安装VirtualBox-02](../../assets/%E5%AE%89%E8%A3%85VirtualBox-02.png)
 
-![安装VirtualBox-03](C:\Users\user\Desktop\github\assets\安装VirtualBox-03.png)
+![安装VirtualBox-03](../../assets/%E5%AE%89%E8%A3%85VirtualBox-03.png)
 
-![安装VirtualBox-04](C:\Users\user\Desktop\github\assets\安装VirtualBox-04.png)
+![安装VirtualBox-04](../../assets/%E5%AE%89%E8%A3%85VirtualBox-04.png)
 
-![安装VirtualBox-05](C:\Users\user\Desktop\github\assets\安装VirtualBox-05.png)
+![安装VirtualBox-05](../../assets/%E5%AE%89%E8%A3%85VirtualBox-05.png)
 
-![安装VirtualBox-06](C:\Users\user\Desktop\github\assets\安装VirtualBox-06.png)
+![安装VirtualBox-06](../../assets/%E5%AE%89%E8%A3%85VirtualBox-06.png)
 
-![安装VirtualBox-07](C:\Users\user\Desktop\github\assets\安装VirtualBox-07.png)
+![安装VirtualBox-07](../../assets/%E5%AE%89%E8%A3%85VirtualBox-07.png)
 
-![安装VirtualBox-08](C:\Users\user\Desktop\github\assets\安装VirtualBox-08.png)
+![安装VirtualBox-08](../../assets/%E5%AE%89%E8%A3%85VirtualBox-08.png)
 
 看到这个界面代表大功告成！！！
 
